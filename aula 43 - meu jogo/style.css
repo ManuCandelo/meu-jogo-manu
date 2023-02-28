@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(assets/fundo.jpg);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+}
+
+.botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
